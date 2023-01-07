@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
+scikit-learn = "*"
+matplotlib = "*"
 
 [dev-packages]
 isort = "*"
